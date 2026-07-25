@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Build artifacts
+*.exe
+*.dmg
+*.msi
+*.app
+
+# Environment
+.env
+.env.local
