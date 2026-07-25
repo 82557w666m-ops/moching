@@ -138,7 +138,7 @@ Moching doesn't just read text — it **sees your screen**, understands UI layou
 | Platform | Link |
 |---|---|
 | Windows | [GitHub Releases](https://github.com/moching-ai-dev/moching/releases) |
-| All Releases | [HuggingFace](https://huggingface.co/moching-ai-dev) |
+| All Releases | [HuggingFace](https://huggingface.co/lming777/moching) |
 
 ---
 
