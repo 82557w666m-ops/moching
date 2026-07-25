@@ -112,7 +112,7 @@ Moching doesn't just read text — it **sees your screen**, understands UI layou
 
 | Platform | Link |
 |---|---|
-| Windows | [GitHub Releases](https://github.com/moching-ai-dev/moching/releases) |
+| Windows | [GitHub Releases](https://github.com/82557w666m-ops/moching/releases) |
 | All Releases | [HuggingFace](https://huggingface.co/moching-ai-dev) |
 
 ---
@@ -138,7 +138,7 @@ Moching doesn't just read text — it **sees your screen**, understands UI layou
 ## 💬 Support
 
 - **Email**: [noreply@mochingcode.com](mailto:noreply@mochingcode.com)
-- **Bug Reports & Feature Requests**: [GitHub Issues](https://github.com/moching-ai-dev/moching/issues)
+- **Bug Reports & Feature Requests**: [GitHub Issues](https://github.com/82557w666m-ops/moching/issues)
 
 ---
 
