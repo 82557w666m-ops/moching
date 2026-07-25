@@ -6,24 +6,28 @@
 
 <p align="center">
   <a href="https://github.com/moching-ai-dev/moching/releases/latest">
-    <img src="https://img.shields.io/badge/⬇_Download_v27.0.3-000000?style=for-the-badge&logo=windows" alt="Download"/>
+    <img src="https://img.shields.io/badge/⬇_Download_Windows_EXE-000000?style=for-the-badge&logo=windows" alt="Download Windows"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/moching-ai-dev/moching/releases/latest">
-    <img src="https://img.shields.io/badge/⬇_macOS_DMG-000000?style=for-the-badge&logo=apple" alt="macOS"/>
+    <img src="https://img.shields.io/badge/⬇_Download_macOS_DMG-000000?style=for-the-badge&logo=apple" alt="Download macOS"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/tools-219-brightgreen" alt="219 Tools"/>
-  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS-blue" alt="Platform"/>
-  <img src="https://img.shields.io/badge/license-Proprietary-lightgrey" alt="License"/>
-  <a href="https://mochingcode.com"><img src="https://img.shields.io/badge/website-mochingcode.com-purple" alt="Website"/></a>
-  <a href="https://ref.mochingcode.com"><img src="https://img.shields.io/badge/💰_Refer_%26_Earn-$1_per_friend-gold" alt="Referral"/></a>
+  <img src="https://img.shields.io/badge/version-v27.0.3-2d6a4f?style=flat-square" alt="Version"/>
+  <img src="https://img.shields.io/badge/native_tools-219-2d6a4f?style=flat-square" alt="219 Tools"/>
+  <img src="https://img.shields.io/badge/platform-Windows_10%2B_·_macOS_12%2B-2d6a4f?style=flat-square" alt="Platform"/>
+  <img src="https://img.shields.io/badge/license-Proprietary-red?style=flat-square" alt="License"/>
+  <a href="https://mochingcode.com"><img src="https://img.shields.io/badge/🌐_mochingcode.com-2d6a4f?style=flat-square" alt="Website"/></a>
+  <a href="https://ref.mochingcode.com"><img src="https://img.shields.io/badge/🎁_Refer_%241-ea580c?style=flat-square" alt="Referral"/></a>
 </p>
 
 ### Not a Coding Assistant. Not a Chatbot. A Digital Operator.
 
-Most AI tools live inside a browser tab. Moching lives on your desktop — it sees your screen, moves your mouse, opens your apps, and gets work done while you watch.
+Most AI tools live inside a browser tab. **Moching lives on your desktop** — it sees your screen, moves your mouse, opens your apps, and gets work done while you watch.
+
+**System Requirements:** Windows 10+ (x64) · macOS 12+ (Apple Silicon) · 4GB RAM · Any OpenAI-compatible API key
 
 <p align="center">
   <img src="assets/screenshot-skills.png" width="600" alt="Moching Skills Panel — Real UI"/>
@@ -31,7 +35,7 @@ Most AI tools live inside a browser tab. Moching lives on your desktop — it se
 
 ---
 
-## 🧠 Capability Matrix — 219 Native Tools
+## 🧠 Capability Matrix — 219 Native Tools × 12 Domains
 
 | Domain | Tools | What It Does |
 |---|---|---|
@@ -113,32 +117,40 @@ This is the **Perceive → Decide → Execute → Verify** cycle that no other p
 
 ## 🚀 Quick Start
 
-```bash
-# Install Moching
-# Download from GitHub Releases or HuggingFace
+| Step | Action |
+|:----:|--------|
+| 1 | **Download** the installer for your platform |
+| 2 | **Install** and launch Moching |
+| 3 | **Bring your own key** — OpenAI, Claude, Gemini, or any OpenAI-compatible endpoint |
+| 4 | **Type what you need done.** Watch it work. |
 
-# Launch
-moching.exe
+<br/>
 
-# Moching reads your screen, understands your intent, and acts.
-```
+<div align="center">
 
-### BYOK — Bring Your Own Key
+**No subscription. Pay as you go. From $1.**
 
-Moching supports multiple LLM providers. Configure your API key and choose your model.
-
-### Screen Perception — Real-time Visual Understanding
-
-Moching doesn't just read text — it **sees your screen**, understands UI layouts, and interacts with any application like a human would.
+</div>
 
 ---
 
-## 📥 Download
+## 📥 Download — v27.0.3
 
-| Platform | Link |
-|---|---|
-| Windows | [GitHub Releases](https://github.com/moching-ai-dev/moching/releases) |
-| All Releases | [HuggingFace](https://huggingface.co/lming777/moching) |
+| Platform | Link | Size |
+|----------|------|:----:|
+| Windows x64 | [GitHub Releases](https://github.com/moching-ai-dev/moching/releases/latest) | 369 MB |
+| macOS (Apple Silicon) | [GitHub Releases](https://github.com/moching-ai-dev/moching/releases/latest) | 594 MB |
+| All Platforms | [HuggingFace Mirror](https://huggingface.co/lming777/moching) | — |
+
+<details>
+<summary>🔐 Full SHA256 checksums</summary>
+
+```
+Windows: a2c6110c9adcd6c280c538fc689376b69fdf0ee37f245a0bb13752c0d38f0e24
+macOS:   b9dd97d2c7f9954e04bb9f41ed7d0793d6135c5940d756807366bd55f3fc0214
+```
+
+</details>
 
 ---
 
@@ -162,8 +174,11 @@ Moching doesn't just read text — it **sees your screen**, understands UI layou
 
 ## 💬 Support
 
-- **Email**: [noreply@mochingcode.com](mailto:noreply@mochingcode.com)
-- **Bug Reports & Feature Requests**: [GitHub Issues](https://github.com/moching-ai-dev/moching/issues)
+| Channel | Link |
+|---------|------|
+| Email | [noreply@mochingcode.com](mailto:noreply@mochingcode.com) |
+| Bug Reports | [GitHub Issues](https://github.com/moching-ai-dev/moching/issues) |
+| Website | [mochingcode.com](https://mochingcode.com) |
 
 ---
 
@@ -189,6 +204,10 @@ Moching asks: ***"What can I do for you?"***
 
 **100% Independently Developed · Not a Wrapper · Not a Mod**
 
-© 2026 Moching. All rights reserved.
+**🏔️ Moching** — *Your computer just got a brain.*
+
+© 2026 Moching. Proprietary. All Rights Reserved.
+
+[Website](https://mochingcode.com) · [HuggingFace](https://huggingface.co/lming777/moching) · [Referral](https://ref.mochingcode.com)
 
 </div>
