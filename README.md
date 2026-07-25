@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/82557w666m-ops/moching/releases/latest">
+  <a href="https://github.com/moching-ai-dev/moching/releases/latest">
     <img src="https://img.shields.io/badge/⬇_Download_v27.0.3-000000?style=for-the-badge&logo=windows" alt="Download"/>
   </a>
-  <a href="https://github.com/82557w666m-ops/moching/releases/latest">
+  <a href="https://github.com/moching-ai-dev/moching/releases/latest">
     <img src="https://img.shields.io/badge/⬇_macOS_DMG-000000?style=for-the-badge&logo=apple" alt="macOS"/>
   </a>
 </p>
@@ -137,7 +137,7 @@ Moching doesn't just read text — it **sees your screen**, understands UI layou
 
 | Platform | Link |
 |---|---|
-| Windows | [GitHub Releases](https://github.com/82557w666m-ops/moching/releases) |
+| Windows | [GitHub Releases](https://github.com/moching-ai-dev/moching/releases) |
 | All Releases | [HuggingFace](https://huggingface.co/moching-ai-dev) |
 
 ---
@@ -163,7 +163,7 @@ Moching doesn't just read text — it **sees your screen**, understands UI layou
 ## 💬 Support
 
 - **Email**: [noreply@mochingcode.com](mailto:noreply@mochingcode.com)
-- **Bug Reports & Feature Requests**: [GitHub Issues](https://github.com/82557w666m-ops/moching/issues)
+- **Bug Reports & Feature Requests**: [GitHub Issues](https://github.com/moching-ai-dev/moching/issues)
 
 ---
 
