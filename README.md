@@ -1,8 +1,24 @@
 # 🏔️ Moching — AI Agent for Your Entire PC
 
+<p align="center">
+  <img src="assets/hero-capability-matrix.jpg" width="750" alt="Moching — 219 Native Tools"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS-blue" alt="Platform"/>
+  <img src="https://img.shields.io/badge/tools-219-brightgreen" alt="219 Tools"/>
+  <img src="https://img.shields.io/badge/license-Proprietary-red" alt="License"/>
+  <img src="https://img.shields.io/badge/version-27.0.3-orange" alt="Version"/>
+  <a href="https://mochingcode.com"><img src="https://img.shields.io/badge/website-mochingcode.com-purple" alt="Website"/></a>
+</p>
+
 ### Not a Coding Assistant. Not a Chatbot. A Digital Operator.
 
 Moching sits in front of your computer and **does things** — writes code, edits documents, controls apps, browses the web, generates media, and manages your system. All autonomously.
+
+<p align="center">
+  <img src="assets/screenshot-skills.png" width="600" alt="Moching Skills Panel — Real UI"/>
+</p>
 
 ---
 
@@ -120,7 +136,7 @@ Moching doesn't just read text — it **sees your screen**, understands UI layou
 ## 🎁 Referral Program — Refer & Earn
 
 <p align="center">
-  <img src="assets/referral-landing.png" width="400" alt="Moching Referral Program"/>
+  <img src="assets/referral-landing.png" width="380" alt="Moching Referral Program"/>
 </p>
 
 **Refer a friend — you both earn $1.**
