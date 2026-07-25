@@ -5,16 +5,25 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS-blue" alt="Platform"/>
+  <a href="https://github.com/82557w666m-ops/moching/releases/latest">
+    <img src="https://img.shields.io/badge/⬇_Download_v27.0.3-000000?style=for-the-badge&logo=windows" alt="Download"/>
+  </a>
+  <a href="https://github.com/82557w666m-ops/moching/releases/latest">
+    <img src="https://img.shields.io/badge/⬇_macOS_DMG-000000?style=for-the-badge&logo=apple" alt="macOS"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/tools-219-brightgreen" alt="219 Tools"/>
-  <img src="https://img.shields.io/badge/license-Proprietary-red" alt="License"/>
-  <img src="https://img.shields.io/badge/version-27.0.3-orange" alt="Version"/>
+  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS-blue" alt="Platform"/>
+  <img src="https://img.shields.io/badge/license-Proprietary-lightgrey" alt="License"/>
   <a href="https://mochingcode.com"><img src="https://img.shields.io/badge/website-mochingcode.com-purple" alt="Website"/></a>
+  <a href="https://ref.mochingcode.com"><img src="https://img.shields.io/badge/💰_Refer_%26_Earn-$1_per_friend-gold" alt="Referral"/></a>
 </p>
 
 ### Not a Coding Assistant. Not a Chatbot. A Digital Operator.
 
-Moching sits in front of your computer and **does things** — writes code, edits documents, controls apps, browses the web, generates media, and manages your system. All autonomously.
+Most AI tools live inside a browser tab. Moching lives on your desktop — it sees your screen, moves your mouse, opens your apps, and gets work done while you watch.
 
 <p align="center">
   <img src="assets/screenshot-skills.png" width="600" alt="Moching Skills Panel — Real UI"/>
@@ -158,11 +167,21 @@ Moching doesn't just read text — it **sees your screen**, understands UI layou
 
 ---
 
-## 💎 Why Moching Exists
+## 💎 Why We Built This
 
-Every other AI tool asks: *"What can I help you write?"*
+We were tired of AI tools that *talk* about doing things but can't actually *do* them.
+
+Every other AI asks: *"What can I help you write?"*
 
 Moching asks: ***"What can I do for you?"***
+
+---
+
+## 📋 Changelog
+
+| Date | Version | Highlights |
+|------|---------|------------|
+| 2026-07-25 | v27.0.3 | Initial public release. 219 tools. Windows + macOS. |
 
 ---
 
