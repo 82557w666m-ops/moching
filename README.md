@@ -5,6 +5,14 @@
 </p>
 
 <p align="center">
+  <video src="https://github.com/moching-ai-dev/moching/releases/download/v27.0.5/default.mp4" width="750" controls>
+    Your browser does not support the video tag.
+  </video>
+</p>
+<p align="center"><sub>▲ Moching in action — 25s product demo</sub></p>
+
+
+<p align="center">
   <a href="https://github.com/moching-ai-dev/moching/releases/latest">
     <img src="https://img.shields.io/badge/⬇_Download_Windows_EXE-000000?style=for-the-badge&logo=windows" alt="Download Windows"/>
   </a>
@@ -15,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-v27.0.3-2d6a4f?style=flat-square" alt="Version"/>
+  <img src="https://img.shields.io/badge/version-v27.0.5-2d6a4f?style=flat-square" alt="Version"/>
   <img src="https://img.shields.io/badge/native_tools-219-2d6a4f?style=flat-square" alt="219 Tools"/>
   <img src="https://img.shields.io/badge/platform-Windows_10%2B_·_macOS_12%2B-2d6a4f?style=flat-square" alt="Platform"/>
   <img src="https://img.shields.io/badge/license-Proprietary-red?style=flat-square" alt="License"/>
