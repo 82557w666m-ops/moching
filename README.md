@@ -147,7 +147,7 @@ This is the **Perceive → Decide → Execute → Verify** cycle that no other p
 |----------|------|:----:|
 | Windows x64 | [GitHub Releases](https://github.com/moching-ai-dev/moching/releases/latest) | 369 MB |
 | macOS (Apple Silicon) | [GitHub Releases](https://github.com/moching-ai-dev/moching/releases/latest) | 594 MB |
-| All Platforms | [HuggingFace Mirror](https://huggingface.co/lming777/moching) | — |
+| All Platforms | [HuggingFace Mirror](https://huggingface.co/mochingcode/moching) | — |
 
 <details>
 <summary>🔐 Full SHA256 checksums</summary>
@@ -215,6 +215,6 @@ Moching asks: ***"What can I do for you?"***
 
 © 2026 Moching. Proprietary. All Rights Reserved.
 
-[Website](https://mochingcode.com) · [HuggingFace](https://huggingface.co/lming777/moching) · [Referral](https://ref.mochingcode.com)
+[Website](https://mochingcode.com) · [HuggingFace](https://huggingface.co/mochingcode/moching) · [Referral](https://ref.mochingcode.com)
 
 </div>
