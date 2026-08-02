@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <video src="https://github.com/moching-ai-dev/moching/releases/download/v27.0.6-1/default.mp4" width="750" controls>
+  <video src="https://github.com/moching-ai-dev/moching/releases/download/v27.0.6-1/moching_demo.mp4" width="750" controls>
     Your browser does not support the video tag.
   </video>
 </p>
@@ -141,20 +141,20 @@ This is the **Perceive → Decide → Execute → Verify** cycle that no other p
 
 ---
 
-## 📥 Download — v27.0.3
+## 📥 Download — v27.0.6-1
 
 | Platform | Link | Size |
 |----------|------|:----:|
-| Windows x64 | [GitHub Releases](https://github.com/moching-ai-dev/moching/releases/latest) | 369 MB |
-| macOS (Apple Silicon) | [GitHub Releases](https://github.com/moching-ai-dev/moching/releases/latest) | 594 MB |
-| All Platforms | [HuggingFace Mirror](https://huggingface.co/mochingcode/moching) | — |
+| Windows x64 | [GitHub Releases](https://github.com/moching-ai-dev/moching/releases/latest) | 353 MB |
+| macOS (Apple Silicon) | [GitHub Releases](https://github.com/moching-ai-dev/moching/releases/latest) | 445 MB |
+| All Platforms | [HuggingFace Mirror](https://huggingface.co/lming777/moching) | — |
 
 <details>
 <summary>🔐 Full SHA256 checksums</summary>
 
 ```
-Windows: a2c6110c9adcd6c280c538fc689376b69fdf0ee37f245a0bb13752c0d38f0e24
-macOS:   b9dd97d2c7f9954e04bb9f41ed7d0793d6135c5940d756807366bd55f3fc0214
+Windows: 3e0060f22ba3eb601a18e5e2134b43449d2a04dacd964a72c2fd32d5bc34bb49
+macOS:   0d0fcace01e6e501f15582d56d2436bd39bdaa8a2c99f68b23e275c05dd370ff
 ```
 
 </details>
@@ -203,6 +203,7 @@ Moching asks: ***"What can I do for you?"***
 
 | Date | Version | Highlights |
 |------|---------|------------|
+| 2026-08-02 | v27.0.6-1 | Major AI upgrade. 17x performance boost. Enhanced stability. |
 | 2026-07-25 | v27.0.3 | Initial public release. 219 tools. Windows + macOS. |
 
 ---
@@ -215,6 +216,6 @@ Moching asks: ***"What can I do for you?"***
 
 © 2026 Moching. Proprietary. All Rights Reserved.
 
-[Website](https://mochingcode.com) · [HuggingFace](https://huggingface.co/mochingcode/moching) · [Referral](https://ref.mochingcode.com)
+[Website](https://mochingcode.com) · [HuggingFace](https://huggingface.co/lming777/moching) · [Referral](https://ref.mochingcode.com)
 
 </div>
